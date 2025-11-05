@@ -1,0 +1,50 @@
+h1{
+    margin-bottom: 0;
+}
+
+h3{
+    color: hsl(75, 94%, 57%);
+}
+
+.card{
+    border-radius: 16px;
+    border: 50px;
+    padding: 50px 70px;
+    background-color: hsl(0, 0%, 12%);
+}
+body{
+    background-color:  hsl(0, 0%, 8%);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    color: white;
+    padding: 20px;
+}
+a.button-link{
+    display: block;
+    color: white;
+    text-decoration:none;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color;
+    background-color: hsl(0, 0%, 20%);
+    line-height: 3.5;
+    display: block;
+    /* margin-bottom: 20px; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.button-line{
+    line-height: 2;
+}
+img{
+    border-radius: 9999px;
+    display: block;
+    margin: 0 auto;
+}
